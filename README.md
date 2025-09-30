@@ -56,5 +56,4 @@ The dataset is modeled using a **star schema** with `requests_log` as the fact t
 - VIew the detailed case study report in /docs/pdf/
 - View the static dashboard mockup in /dashboard/
 
-  ---
 ---
