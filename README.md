@@ -4,7 +4,6 @@
 This project simulates a real-world **SaaS analytics case study** focusing on user activity, customer acquisition, and session clustering.  
 The goal is to **transform raw event logs into actionable business insights** and design a **Growth Department Dashboard** for decision-makers.  
 
----
 
 ## 🎯 Objectives &  Highlights 
 - Explored ~56k raw web-event logs with SQL
@@ -13,7 +12,6 @@ The goal is to **transform raw event logs into actionable business insights** an
 - Designed KPIs for **acquisition, retention, churn, and unit economics** 
 - Built a **B2B & B2C dashboard mockup** for Growth Department decision-making
 
----
 
 ## 🏗️ Dataset:
 Synthetic SaaS dataset modeled on real-world event logs, user-company relationships, and user roles.
@@ -41,10 +39,10 @@ The dataset is modeled using a **star schema** with `requests_log` as the fact t
 │ fleet_size       │
 └─────────────────┘
 ```
----
+
 > **Tech stack:** SQL (BigQuery) · Plotly · Python · Canva/Figma (static BI mock-up) · GitHub (Documentation)
 
----
+
 ## 📌 Key Learnings
 - Designed a complete analytics workflow: raw logs → session clustering → KPIs → dashboard.
 - Gained hands-on with SaaS growth metrics: CAC, LTV, MRR, NPS
